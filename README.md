@@ -1,6 +1,6 @@
-<h1> 🎯 Juego Secreto </h1> 
+<h1> 🎯 Juego del número secreto </h1> 
 
-¡Bienvenido/a al **Juego Secreto**!  
+¡Bienvenido/a al **Juego del número secreto**!  
 Este es un mini-juego web donde el objetivo es adivinar un número secreto generado aleatoriamente por la computadora. Recibirás pistas después de cada intento para ayudarte a acertar.
 
 🔗 **Jugar ahora:**  
