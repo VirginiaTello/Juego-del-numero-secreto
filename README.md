@@ -4,7 +4,7 @@
 Este es un mini-juego web donde el objetivo es adivinar un número secreto generado aleatoriamente por la computadora. Recibirás pistas después de cada intento para ayudarte a acertar.
 
 🔗 **Jugar ahora:**  
-👉 [https://virginiatello.github.io/juego-secreto/](https://virginiatello.github.io/juego-secreto/)
+👉 [https://virginiatello.github.io/juego-secreto/](https://virginiatello.github.io/Juego-del-numero-secreto/)
 
 ---
 
